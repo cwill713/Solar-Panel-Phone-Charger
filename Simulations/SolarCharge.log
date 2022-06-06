@@ -1,0 +1,83 @@
+Circuit: * C:\Users\jcmul\OneDrive\Documents\GitHub\SolarCharger\Simulations\SolarCharge.asc
+
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}&v(b)>{{vthresh}}&v(c)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))&v(b)>((vthresh))&v(c)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}&v(b)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))&v(b)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}|v(b)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))|v(b)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}|v(b)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))|v(b)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate1 yint1 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate2 yint3 0 v={if(v(yint2)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](yint2)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}&v(b)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))&v(b)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate1 yint1 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate2 yint3 0 v={if(v(yint2)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](yint2)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vdd)),((vss)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}},{{vss}},{{vdd}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh)),((vss)),((vdd)))"
+Questionable use of curly braces in "b§e_abmgate yint 0 v={if(v(a)>{{vthresh}}&v(b)>{{vthresh}},{{vdd}},{{vss}})}"
+    Error: undefined symbol in: "if([v](a)>((vthresh))&v(b)>((vthresh)),((vdd)),((vss)))"
+Warning: Multiple definitions of model "dmbrs340t3" Type: Diode
+Warning: Multiple definitions of model "mndrvr" Type: Mos1
+Warning: Multiple definitions of model "mpdrvr" Type: Mos1
+Warning: Multiple definitions of model "dz7p2" Type: Diode
+Warning: Multiple definitions of model "dmbrs340t3" Type: Diode
+Warning: Multiple definitions of model "mndrvr" Type: Mos1
+Warning: Multiple definitions of model "mpdrvr" Type: Mos1
+Warning: Multiple definitions of model "dz7p2" Type: Diode
+Limiting rise time of source v:u2:_ifa to 1e-008
+Limiting fall time of source v:u2:_ifa to 1e-008
+Limiting rise time of source v:u2:_u2:_p1v to 1e-008
+Limiting fall time of source v:u2:_u2:_p1v to 1e-008
+Limiting rise time of source v:u2:_u2:_ifa to 1e-008
+Limiting fall time of source v:u2:_u2:_ifa to 1e-008
+Limiting rise time of source v:u2:_iss_tst to 1e-008
+Limiting fall time of source v:u2:_iss_tst to 1e-008
+Model "m1:pmosd": Oxide thickness thinner than recommended for a level 1 MOSFET.
+Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.000835122 to 0.000835129
+Heightened Def Con from 0.00141955 to 0.00141956
+Heightened Def Con from 0.00175791 to 0.00175792
+Heightened Def Con from 0.00206858 to 0.00206859
+Heightened Def Con from 0.00360348 to 0.00360349
+Heightened Def Con from 0.00375113 to 0.00375114
+Heightened Def Con from 0.00522451 to 0.00522452
+
+Date: Fri Jun 03 13:23:47 2022
+Total elapsed time: 55442.850 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 212641331
+traniter = 212641331
+tranpoints = 105596213
+accept = 75198315
+rejected = 30397905
+matrix size = 248
+fillins = 179
+solver = Normal
+Thread vector: 37.8/24.3[6] 18.3/6.1[6] 32.7/7.5[6] 1.7/3.4[1]  2592/500
+Matrix Compiler1: 15.33 KB object code size  15.6/7.5/[1.5]
+Matrix Compiler2: 18.75 KB object code size  7.3/8.8/[1.3]
+
