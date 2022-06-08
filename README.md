@@ -49,13 +49,11 @@ Josh and I each constructed a our own boards and tested them. When testing the b
 ![image](https://user-images.githubusercontent.com/103695977/172703383-8192ec97-55e3-4943-acb7-ccd2cf2812ec.png)
 ![image](https://user-images.githubusercontent.com/103695977/172703418-6e0d1762-f83f-49cc-a7bb-411f2b994870.png)
 
-
-Next, we connected our 5W 12V solar panels to the converter and took them outside to get direct sunlight. Once the solar panel was propped up to be perpendicular to the sun, I plugged in my iPhone and it started charging. It takes quite a bit of time to charge with 5W so I recommend getting a higher wattage solar panel for faster charging.
+After we tested the boards in the lab, we connected our boards to our solar panels and tested them outside. We found that we were getting around 4.8V and .96A at the output which gave us 4.61W at the output. 
 
 ## Rev 6 Results
-
 The image on the left shows the voltage being supplied to the iPhone through the 24V 4A power suplies. The image on the right shows the current being drawn by the iPhone.
 
 <img width="400" alt="IMG-1079" src="https://user-images.githubusercontent.com/103919092/172072088-5cb21dbd-36de-4d5a-aee9-864d0d37841f.jpg"><img width="400" alt="IMG-1081" src="https://user-images.githubusercontent.com/103919092/172072099-f12144a6-9be4-4a8b-8c2a-dc5363fb0343.jpg">
 
-More images are avaialble
+More images are avaialble in the pictures folder.
