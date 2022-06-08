@@ -14,6 +14,8 @@ This is the the project, assigned by [Dr. Rob Frohne](https://github.com/frohro)
 
 Josh and I wanted to design a solar phone charger because we thought of the potential use of people who spend a lot of time outside. We also knew that Apple products need certain specifications to charge as oppose to Andriod products so we set out to figure out how to make our charger work for both.
 
+The first simulation/schematic of our project allowed us to get the desired outputs, but we found that it was not very efficient, so we decided to redesign our board and end up with a new string of designs
+
 The heart of our circuit is the [LM3478](https://www.ti.com/lit/ds/symlink/lm3478.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1654180125781&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm3478) which is a high-efficiency low-side n-channel controller. This allows us to regulate any voltage between 2.39 and 40V that could come from our 10W solar panels
 
 ## Rev 7 Design
