@@ -56,4 +56,4 @@ The image on the left shows the voltage being supplied to the iPhone through the
 
 <img width="400" alt="IMG-1079" src="https://user-images.githubusercontent.com/103919092/172072088-5cb21dbd-36de-4d5a-aee9-864d0d37841f.jpg"><img width="400" alt="IMG-1081" src="https://user-images.githubusercontent.com/103919092/172072099-f12144a6-9be4-4a8b-8c2a-dc5363fb0343.jpg">
 
-More images are avaialble in the pictures folder.
+More images are avaialble in the [pictures](https://github.com/cwill713/Solar-Panel-Phone-Charger/tree/main/Pictures) folder. The video of testing made by Josh is availabel [here](https://youtu.be/SS7m2UqrDPg).
